@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{E167E7C3-0B2E-4122-B033-8872AAB8BC7C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab13_RockPaperScissors/InputPlayer.cs">
+    <Files>
+      <File FileName="Lab13_RockPaperScissors/Program.cs" Line="11" Column="32" />
+      <File FileName="Lab13_RockPaperScissors/Player.cs" Line="10" Column="53" />
+      <File FileName="Lab13_RockPaperScissors/RockPlayer.cs" Line="13" Column="1" />
+      <File FileName="Lab13_RockPaperScissors/RandomPlayer.cs" Line="4" Column="5" />
+      <File FileName="Lab13_RockPaperScissors/InputPlayer.cs" Line="6" Column="9" />
+      <File FileName="Lab13_RockPaperScissors/RoshamboApp.cs" Line="6" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab13__RockPaperScissors PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

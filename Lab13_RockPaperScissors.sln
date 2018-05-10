@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab13_RockPaperScissors", "Lab13_RockPaperScissors\Lab13_RockPaperScissors.csproj", "{E167E7C3-0B2E-4122-B033-8872AAB8BC7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E167E7C3-0B2E-4122-B033-8872AAB8BC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E167E7C3-0B2E-4122-B033-8872AAB8BC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E167E7C3-0B2E-4122-B033-8872AAB8BC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E167E7C3-0B2E-4122-B033-8872AAB8BC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

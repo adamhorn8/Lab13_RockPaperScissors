@@ -1,0 +1,11 @@
+/Users/Adam/Projects/Lab13_RockPaperScissors/Lab13_RockPaperScissors/obj/Debug/netcoreapp2.0/Lab13_RockPaperScissors.csprojResolveAssemblyReference.cache
+/Users/Adam/Projects/Lab13_RockPaperScissors/Lab13_RockPaperScissors/obj/Debug/netcoreapp2.0/Lab13_RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/Adam/Projects/Lab13_RockPaperScissors/Lab13_RockPaperScissors/obj/Debug/netcoreapp2.0/Lab13_RockPaperScissors.AssemblyInfoInputs.cache
+/Users/Adam/Projects/Lab13_RockPaperScissors/Lab13_RockPaperScissors/obj/Debug/netcoreapp2.0/Lab13_RockPaperScissors.AssemblyInfo.cs
+/Users/Adam/Projects/Lab13_RockPaperScissors/Lab13_RockPaperScissors/bin/Debug/netcoreapp2.0/Lab13_RockPaperScissors.deps.json
+/Users/Adam/Projects/Lab13_RockPaperScissors/Lab13_RockPaperScissors/bin/Debug/netcoreapp2.0/Lab13_RockPaperScissors.runtimeconfig.json
+/Users/Adam/Projects/Lab13_RockPaperScissors/Lab13_RockPaperScissors/bin/Debug/netcoreapp2.0/Lab13_RockPaperScissors.runtimeconfig.dev.json
+/Users/Adam/Projects/Lab13_RockPaperScissors/Lab13_RockPaperScissors/bin/Debug/netcoreapp2.0/Lab13_RockPaperScissors.dll
+/Users/Adam/Projects/Lab13_RockPaperScissors/Lab13_RockPaperScissors/bin/Debug/netcoreapp2.0/Lab13_RockPaperScissors.pdb
+/Users/Adam/Projects/Lab13_RockPaperScissors/Lab13_RockPaperScissors/obj/Debug/netcoreapp2.0/Lab13_RockPaperScissors.dll
+/Users/Adam/Projects/Lab13_RockPaperScissors/Lab13_RockPaperScissors/obj/Debug/netcoreapp2.0/Lab13_RockPaperScissors.pdb
